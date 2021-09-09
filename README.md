@@ -1,6 +1,6 @@
 # Vueapp
 
-An app developed using Vuejs as a practice for Vuejs component relations and integration of CSS.
+An app developed using Vuejs as a demonstration of Vuejs component relations and integration of CSS.
 
 ## Project setup
 ```
